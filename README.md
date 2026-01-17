@@ -1,3 +1,5 @@
+⚠️ Ce fork est désormais maintenu par @thierry-laval. 
+Le dépôt original n'est plus suivi et cette version est la référence active.
 
 # Script Prestashop pour les versions 1.6.X jusqu'à 8.X
 
